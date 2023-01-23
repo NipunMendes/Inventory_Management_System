@@ -10,7 +10,8 @@ All purchasing order invoices, purchasing bills, customer bills have to maintain
 
 Finally, New Electro want to keep their product’s inventory up to date.
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
-</a>
+<div id="badges">
+  <a href="www.linkedin.com/in/nipun-mendis">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 

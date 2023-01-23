@@ -11,7 +11,7 @@ All purchasing order invoices, purchasing bills, customer bills have to maintain
 Finally, New Electro want to keep their product’s inventory up to date.
 
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 

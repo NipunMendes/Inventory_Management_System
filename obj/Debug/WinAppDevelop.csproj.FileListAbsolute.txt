@@ -1,0 +1,34 @@
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\bin\Debug\WinAppDevelop.exe.config
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\bin\Debug\WinAppDevelop.exe
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\bin\Debug\WinAppDevelop.pdb
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.csprojResolveAssemblyReference.cache
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Form1.resources
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Properties.Resources.resources
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.csproj.GenerateResource.Cache
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.exe
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.pdb
+c:\users\nipun rajapakshe\documents\visual studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Supplier.resources
+C:\Users\Nipun Rajapakshe\Documents\Visual Studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Customer.resources
+C:\Users\Nipun Rajapakshe\Documents\Visual Studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Bills.resources
+C:\Users\Nipun Rajapakshe\Documents\Visual Studio 2015\Projects\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Items.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\bin\Debug\WinAppDevelop.exe.config
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\bin\Debug\WinAppDevelop.exe
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\bin\Debug\WinAppDevelop.pdb
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Bills.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Customer.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Form1.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Items.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Properties.Resources.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Supplier.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.csproj.GenerateResource.Cache
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.exe
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.pdb
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Distribute.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Sellers.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.csprojResolveAssemblyReference.cache
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.CustomerServices.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Login.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.UsersCreate.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.CompanyReg.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.MonthlyBasis.resources
+C:\Users\Nipun Rajapakshe\Desktop\WinAppDevelop\WinAppDevelop\obj\Debug\WinAppDevelop.Employee.resources

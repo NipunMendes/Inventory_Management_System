@@ -18,7 +18,7 @@ Finally, New Electro want to keep their product’s inventory up to date.
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/nipun-mendis">
+  <a href="https://www.linkedin.com/in/nipun-mendis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
